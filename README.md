@@ -8,6 +8,8 @@ Old UI: http://web1.anasource.com/ePrescribe/LeftMenuPage/SamplePageMenuLeft.htm
 
 CSV to XML:http://web1.anasource.com/csvxml/pages/csvtoxml.aspx
 
+Custom UI Plugin in JQuery: http://web1.anasource.com/ePrescribe/Custom%20Jquery%20Plugin/demo.html
+
 
 Online sample/demo service can be used for fake api call:
 https://reqres.in/
