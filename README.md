@@ -2,9 +2,8 @@
 
 ## Past Work Demo Link:
 
+## Draggable UI Component (Core) [Link](http://web1.anasource.com/ePrescribe/LeftMenuPage/SamplePageMenuLeft.html#)
 ## Draggable UI Component (Merged to Main) [Link](http://web1.anasource.com/ePrescribe/LeftMenuPagenew/SamplePageMenuLeft.html#)
-## Draggable UI Component (Merged to Main) [Link](http://web1.anasource.com/ePrescribe/LeftMenuPage/SamplePageMenuLeft.html#)
-
 ## CSV to XML [Link](http://web1.anasource.com/csvxml/pages/csvtoxml.aspx)
 ## Custom UI Plugin in JQuery [Link](http://web1.anasource.com/ePrescribe/Custom%20Jquery%20Plugin/demo.html)
 ## Online sample/demo service can be used for fake api call [Link](https://reqres.in/)
